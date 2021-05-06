@@ -112,7 +112,7 @@ void loop() {
             (digitalWrite(b4, HIGH));
           }
           if ((button == "light off") && (b4 == HIGH)) {
-            (digitalWrite(b4, LOW)); */
+            (digitalWrite(b4, LOW));
       }
     }
   }

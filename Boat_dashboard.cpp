@@ -1,3 +1,4 @@
+/* I builed this program to run a dashboart in my boat */
 #include <SoftwareSerial.h>
 #include <TinyGPS++.h> // http://arduiniana.org/libraries/tinygpsplus/
 
